@@ -1,0 +1,7 @@
+[begin] (infr-laptop7)
+[execute] (Terminal) {gnome-terminal} </usr/share/pixmaps/xterm-color_32x32.xpm>
+[execute] (Chrome) {google-chrome}
+[execute] (Skype) {skype} </usr/share/pixmaps/skype.png>
+[execute] (xchat) {xchat} </usr/share/pixmaps/xchat.png>
+[include] (/etc/X11/fluxbox/fluxbox-menu)
+[end]
